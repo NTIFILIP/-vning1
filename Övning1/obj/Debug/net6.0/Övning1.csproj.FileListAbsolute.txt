@@ -1,0 +1,15 @@
+C:\Users\hellgren.filip\Desktop\Code\C#\LektionsUpgifter\Övning1\Övning1\bin\Debug\net6.0\Övning1.exe
+C:\Users\hellgren.filip\Desktop\Code\C#\LektionsUpgifter\Övning1\Övning1\bin\Debug\net6.0\Övning1.deps.json
+C:\Users\hellgren.filip\Desktop\Code\C#\LektionsUpgifter\Övning1\Övning1\bin\Debug\net6.0\Övning1.runtimeconfig.json
+C:\Users\hellgren.filip\Desktop\Code\C#\LektionsUpgifter\Övning1\Övning1\bin\Debug\net6.0\Övning1.dll
+C:\Users\hellgren.filip\Desktop\Code\C#\LektionsUpgifter\Övning1\Övning1\bin\Debug\net6.0\Övning1.pdb
+C:\Users\hellgren.filip\Desktop\Code\C#\LektionsUpgifter\Övning1\Övning1\obj\Debug\net6.0\Övning1.csproj.AssemblyReference.cache
+C:\Users\hellgren.filip\Desktop\Code\C#\LektionsUpgifter\Övning1\Övning1\obj\Debug\net6.0\Övning1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hellgren.filip\Desktop\Code\C#\LektionsUpgifter\Övning1\Övning1\obj\Debug\net6.0\Övning1.AssemblyInfoInputs.cache
+C:\Users\hellgren.filip\Desktop\Code\C#\LektionsUpgifter\Övning1\Övning1\obj\Debug\net6.0\Övning1.AssemblyInfo.cs
+C:\Users\hellgren.filip\Desktop\Code\C#\LektionsUpgifter\Övning1\Övning1\obj\Debug\net6.0\Övning1.csproj.CoreCompileInputs.cache
+C:\Users\hellgren.filip\Desktop\Code\C#\LektionsUpgifter\Övning1\Övning1\obj\Debug\net6.0\Övning1.dll
+C:\Users\hellgren.filip\Desktop\Code\C#\LektionsUpgifter\Övning1\Övning1\obj\Debug\net6.0\refint\Övning1.dll
+C:\Users\hellgren.filip\Desktop\Code\C#\LektionsUpgifter\Övning1\Övning1\obj\Debug\net6.0\Övning1.pdb
+C:\Users\hellgren.filip\Desktop\Code\C#\LektionsUpgifter\Övning1\Övning1\obj\Debug\net6.0\Övning1.genruntimeconfig.cache
+C:\Users\hellgren.filip\Desktop\Code\C#\LektionsUpgifter\Övning1\Övning1\obj\Debug\net6.0\ref\Övning1.dll
